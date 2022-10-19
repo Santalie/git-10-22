@@ -3,3 +3,4 @@ druhy radek
 
 
 toto je nova funkce
+a zase neco
