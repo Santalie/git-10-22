@@ -2,3 +2,4 @@ druhy soubor
 druhy radek
 
 
+toto je nova funkce
